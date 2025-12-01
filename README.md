@@ -1,2 +1,1 @@
-# DriftBossModded
-A modded version of well... Drift Boss!
+A modded version of Drift Boss with my own menu, Flare Menu which can be found here: (https://github.com/Noachium/FlareMenu). This was made because my friends at school say they want mods because they are bad at Drift Boss. So I figured why not drop it on here?
